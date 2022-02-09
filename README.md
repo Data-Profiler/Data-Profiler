@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Padmaja Dubba</h1>
 <h3 align="center">Statistical and Inferential Data Analyst</h3>
-<img align = "right" width = "500" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align = "right" width = "450" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🔭 I’m currently working on **Python Data Science**
 
